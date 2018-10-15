@@ -1,0 +1,16 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.1.1",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6",
+    "jquery-validation-globalize": "1.0.0",
+    "globals": "v11.5.0",
+    "datetimepicker": "2.5.3"
+  },
+  "resolutions": {
+    "bootstrap": "v4.1.1",
+    "jquery": "3.3.1"
+  }
+}

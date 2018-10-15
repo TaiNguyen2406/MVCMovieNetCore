@@ -1,0 +1,15 @@
+{
+  "name": "globals",
+  "homepage": "https://github.com/sindresorhus/globals",
+  "version": "11.5.0",
+  "_release": "11.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v11.5.0",
+    "commit": "136bf96c94b9626f9224cde352973695ef33607a"
+  },
+  "_source": "https://github.com/sindresorhus/globals.git",
+  "_target": "v11.5.0",
+  "_originalSource": "globals",
+  "_direct": true
+}
